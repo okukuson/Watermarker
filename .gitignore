@@ -172,3 +172,4 @@ cython_debug/
 .pypirc
 Untitled.ipynb
 rough.py
+gui_module.py
